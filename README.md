@@ -8,9 +8,11 @@ The Autumn Chick Shopping App prototype is a conceptual user interface design bu
 
 ## Preview
 
-View the prototype in Figma: [Autumn Chick - Prototype](https://www.figma.com/proto/pi7lBTXrbKWaAbbgNLF8Rw/Autumn-Chick---Prototype?type=design&node-id=1-754&t=zo52pKhQZx3de15S-1&scaling=scale-down&page-id=1%3A2&starting-point-node-id=1%3A754&mode=design)
+View the prototype in Figma:  
+[Autumn Chick - Prototype](https://www.figma.com/proto/pi7lBTXrbKWaAbbgNLF8Rw/Autumn-Chick---Prototype?type=design&node-id=1-754&t=zo52pKhQZx3de15S-1&scaling=scale-down&page-id=1%3A2&starting-point-node-id=1%3A754&mode=design)
 
-View the community design files: [Autumn Chick - Community](https://www.figma.com/community/file/1341813571666513878/ui-prototype-clothes-shopping-app-autumn-chick)
+View the community design files:  
+[Autumn Chick - Community](https://www.figma.com/community/file/1341813571666513878/ui-prototype-clothes-shopping-app-autumn-chick)
 
 ## Features
 
