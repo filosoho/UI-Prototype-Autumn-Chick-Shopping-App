@@ -47,10 +47,10 @@ The design process followed these steps:
 
 # Contents
 
-![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick---Shopping-App-/blob/0ed919ec1d9025e7be2b9096ec37c87a38c76909/1.png) 
-![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick---Shopping-App-/blob/0ed919ec1d9025e7be2b9096ec37c87a38c76909/2.png) 
-![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick---Shopping-App-/blob/0ed919ec1d9025e7be2b9096ec37c87a38c76909/3.png) 
-![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick---Shopping-App-/blob/0ed919ec1d9025e7be2b9096ec37c87a38c76909/4.png) 
+![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick-Shopping-App/blob/93de999aa4d712ab8ec8be0221a4ae40f8961b32/1.png) 
+![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick-Shopping-App/blob/93de999aa4d712ab8ec8be0221a4ae40f8961b32/2.png) 
+![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick-Shopping-App/blob/93de999aa4d712ab8ec8be0221a4ae40f8961b32/3.png) 
+![UI/Prototype: Autumn-Chick -Shopping-App](https://github.com/filosoho/UI-Prototype-Autumn-Chick-Shopping-App/blob/93de999aa4d712ab8ec8be0221a4ae40f8961b32/4.png) 
 
 ## Contributing
 
